@@ -1,0 +1,97 @@
+#title{
+    background-color: #EED3D9;
+      font-size: 1.5rem;
+      padding: 2%;
+    }
+    h1{
+      font-family: "Teko", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 700;
+      color:white;
+      font-style: normal;
+    }
+     .title-image{
+        size: 70%;
+     }
+    body{
+      font-family: "montserrat";
+    }
+
+    .button-inline{
+      padding: 1% 1% 1% 0%;
+      margin-left: 2%;
+    }
+    .col-lg-4{
+      padding:3% 3% 3%;
+    }
+    h3{
+      font-weight: bold;
+      text-align: center;
+    }
+    
+    p{
+      text-align: center;
+      font-family: "Teko", sans-serif;
+      font-size: 1.5rem;
+    }
+    #features{
+      padding: 7% 15%;
+    }
+    .icon:hover{
+    
+      color:#3C0753;
+    }
+    #testimonials{
+      background-color: #EED3D9;
+      padding: 6% 17%;
+      color:white;
+        text-align: center;
+        font-family: "Teko", sans-serif;
+    
+    }
+    #press{
+    
+      background-color: #EED3D9;
+      text-align: center;
+    padding-bottom: 5%;
+    }
+    #features{
+      background-color: #EED3D9;
+    }
+    .testimonial-image{
+      width:30%;
+      border-radius:100%;
+      margin:3%;
+    }
+    .icon{
+        text-align:center;
+        color:#416D19;
+    }
+    h2{
+      font-size: 3.5rem;
+    }
+    .press-logo{
+      width:16%;
+      margin: 20px 20px 20px;
+    }
+    
+    #pricing{
+      text-align: center;
+      background-color: #EED3D9;
+    }
+    .card-deck{
+      padding: 60px;
+    }
+    .card-body{
+      line-height: 1rem;
+    }
+    #cta{
+      text-align: center;
+      background-color: #EED3D9;
+    }
+    #footer{
+      background-color:#EED3D9;
+    }
+
+   
+   
